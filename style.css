@@ -1,0 +1,81 @@
+        div{
+            background-image:url(https://www.tokkoro.com/picsup/1285486-satellite.jpg);
+             width: 1350px;
+            height:1500px;
+            font-size: 50px;
+           }
+           .container {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+          }
+          h1{
+            text-align: center;
+            border-top-right-radius: 250px 150px;
+            border:springgreen 10px double;
+            background-clip: content-box;
+            border-top-style: dotted;
+            border-bottom-style: dashed;
+            font-size:70px;
+            color:red;
+            font-family: 'Abril Fatface', cursive;
+           }            
+           h6{
+            color:white;
+            font-family: 'Tangerine', cursive;
+            font-size:50px;
+            line-break: 5px;
+        }
+        p {
+            background-image:url("https://images.pexels.com/photos/459335/pexels-photo-459335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+            text-align:left;
+            border-top-right-radius: 50%;
+            border: salmon 10px double;
+            background-clip: content-box;
+            width:600px;
+            height:500px;
+            font-size: 50px;
+            color:black;
+            font-family: 'Satisfy', cursive;
+        } 
+           
+        .class1{
+            background-image: url("https://images.pexels.com/photos/960137/pexels-photo-960137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+            
+            color:white;
+            height:650px;
+            width:700px;
+            float: right;
+            border-top-right-radius: 20%;
+            border: salmon 10px double;
+            background-clip: content-box;
+            font-family: 'Satisfy', cursive;
+        } 
+        #box1{
+            flex-direction: column;
+            font-family: 'Tangerine', cursive;
+            margin:5px;
+            font-size: 25px;
+            
+            background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+        }    
+        #id2{
+            font-size:20px;
+            flex-direction:row;
+            color:white;
+            margin:10px;
+            margin-left: 50px;
+            float:right;
+        }
+        h4{
+            color:white;
+            font-size:30px;
+        }
+       
+       
+        
+      
+
+       
+       
